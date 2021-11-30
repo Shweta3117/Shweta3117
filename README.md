@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shweta3117
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML,CSS and JS.
+- 🌱 I’m learned HTML,CSS and JS, React, Node .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
