@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Shweta3117
+- 👋 Hi, I’m Shweta
 - 👀 I’m interested in coding.
-- 🌱 I learned HTML,CSS and JS, React, Node .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I learned DSA, Java, HTML,CSS and JS, React, Node, Angular, MySQL, Mangodb .
+- 📫 How to reach me- shwetatodkar731@gmail.com
 
 <!---
 Shweta3117/Shweta3117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
